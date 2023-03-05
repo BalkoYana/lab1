@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Все просто</title>
+</head>
+
+<body>
+    <header>
+        <h1><pre><mark><center>Що подивитися? <center></mark></pre></h1> 
+        <nav> <ul type = "circle">
+                <li><a href ="#s1">До зустрічі з тобою</a></li>
+                <li><a href ="#s2">Любий Джон</a></li>
+                <li><a href ="#s3">Сам удома</a></li>
+                </ul></nav>
+    </header>
+ 
+<p><center>Сьогодні я вам хочу поперекомендувати декілька цікавих фільмів</center></p>
+
+
+
+
+</form>
+<main>
+<center>
+    <h1> </h1>
+
+<section>
+    <article id = "s1">
+        
+        <header>
+            <p>До зустрчі з тобою  </p>
+        </header>
+            <p>Рік:2016<br/>
+                Жанр:Фільми, Драма, Мелодрама<br>
+                Країна:Велика Британія, США<br>
+                Режисер:Теа Шеррок<br>
+                В ролях:Emilia Clarke, Sam Claflin,<br>
+                 Janet McTeer, Charles Dance,<br>
+                  Brendan Coyle, Jenna Coleman,<br>
+                   Matthew Lewis<br></p>
+                   <input type = "image" src ="https://eneyida.tv/uploads/posts/2019-11/1573935252_1.jpg" alt="Submit" width = "210" height="350">
+        
+    </article>
+</section>
+<section>
+    <article id = "s2">
+        <header>
+            <th> <p>Любий Джон</p></th>   
+        </header>
+        <p>Рік:2010<br/>
+            Жанр:Воєнний, Драма, Мелодрама<br>
+            Країна:США<br>
+            Кінокомпанія:Relativity Media<br>
+            Режисер:Ласс Халлстрем<br>
+            В ролях:Macaulay Culkin, Joe Pesci, <br>
+            Daniel Stern, John Heard, Catherine O'Hara, <br>
+            Roberts Blossom, Devin Ratray<br></p> 
+            <input type = "image" src ="https://upload.wikimedia.org/wikipedia/uk/7/7d/Dear_John_Poster.jpg" alt="Submit" width = "210" height="350">
+    </article>
+</section>
+<section>
+    <article id = "s3">
+        <header>
+           <p>Сам удома </p>
+        </header>
+        <p>Рік:1990<br/>
+            Жанр:фільм • комедія • сімейний<br>
+            Країна:United States of America<br>
+            Режисер:Chris Columbus<br>
+            В ролях:Macaulay Culkin, Joe Pesci,<br> 
+            Daniel Stern, John Heard,<br>
+             Catherine O'Hara, Roberts Blossom, <br>
+             Devin Ratray<br></p> 
+             <input type = "image" src ="https://kinovezha.com/posters/307.jpg" alt="Submit" width = "210" height="350">
+    </article>
+</center>
+</section>
+</main>
+
+
+
+
+<footer>
+    <p> <a href ="i1.html">Тут ти зможеш приєднатися до нашого клубу</a></p>
+    <p> <a href ="l2.html">Тут ти зможеш знайти нас</a></p>
+    <p>Виконала роботу Балко Яна</p>
+</footer>
+
+</body>
+
+</html>
