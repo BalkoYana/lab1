@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<head>
+    <title>Все просто</title>
+</head>
+<header>
+   <h1><center>Тут ти можеш знайти нас</center></h1>
+</header>
+<body>
+<form>
+    <textarea name="message" rows="20" cols="35">
+
+    </textarea>
+</form>
+<form>
+    <button type ="button" onclick="alert('Наші соцмережі :(інстаграм)@vseprosto,(фейсбук)Все просто ,(пошта)vse.prosto@gmail.com ')">Шукай нас тут</button>
+</form>
+</body>
+<footer>
+    <p>Дякую , що вибрав нас !</p>
+</footer>
