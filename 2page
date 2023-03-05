@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Все просто</title>
+    </head>
+    <body>
+        <p>
+            <center>
+        <table border = "1px">
+            <tr>
+                <th>
+        <form action="#"  method="post" target="_blank">
+        <label for="login">Логін:)</label>
+        <input type ="text" id = "login" name ="login"><br>
+        <label for = "password">Пароль;)</label>
+        <input type="password" id=" password" name = "password"><br>
+        <form>
+        <label for = "email">Enter your email :</label>
+        <input type = "email" name="email">
+        </form>
+        <input type="submit" value = "Увійти в клуб кіноманів">
+               </th>
+        </tr>
+        </table>
+    </center>
+        </p>
+      
+    </body>
+</html>
