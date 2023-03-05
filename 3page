@@ -13,10 +13,10 @@
     </textarea>
 </form>
 <form>
-    <button type ="button" onclick="alert('Наші соцмережі :(інстаграм)@vseprosto,(фейсбук)Все просто ,(пошта)vse.prosto@gmail.com ')">Шукай нас тут</button>
+    <button type ="button" onclick="alert('Наші соцмережі :(інстаграм)@vseprosto,(фейсбук)Все просто ')">Шукай нас тут</button>
 </form>
 <footer>
-    <p>Дякую , що вибрав нас !</p>
+    <p><a href="mailto:vse.prosto@gmail.com">Email us</a></p>
 </footer>
 </body>
 </html>
